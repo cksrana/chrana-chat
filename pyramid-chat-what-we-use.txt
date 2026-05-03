@@ -1,0 +1,83 @@
+To Create this "Chatify App", we will use some important features:
+=======================================================
+-------------------------------------------------------------------------------
+BACKEND >>
+-------------------------------------------------------------------------------
+1. Node.js and Express:
+	--> to build API for this API;
+
+2. Socket.io:
+	--> for real-time features;
+
+3. MongoDB:
+	--> for database;
+
+4. Resend:
+	--> to send emails;
+
+5. Arcjet:
+	--> to implement replemeting;
+
+6. JWT Debugger:
+	--> JSON web token for Authenticatio;
+
+7. Cloudinary:
+	--> for image uploads;
+=======================================================
+
+-------------------------------------------------------------------------------
+>>BACKEND Commads (VS-Code Terminal)
+-------------------------------------------------------------------------------
+a) c (enter)
+	--> this will create the "Package.json" file;
+
+b) npm i express@4.21.2 mongoose@6.10.1 jsonwebtoken@9.0.2 bcryptjs@2.4.3 (enter)
+	--> this will install--
+		"express" -version 4.21.2
+		"mongoDb" -version 6.10.1
+		"JSON Web Token" -version 9.0.2
+		"bcryptjs" -version 2.4.3
+
+c) npm i dotenv@16.4.7 cookie-parser@1.4.7 (enter)
+	--> this will install--
+		"dotenv" -version 16.4.7
+		"cookie-parser" -version 1.4.7	
+
+d) npm i nodemon -D
+	--> this will make the server Live, shows any changes direcly to the terminal;
+	--> to activate this, add following dependencies into the "package.json" file;
+	"scripts": {
+		"dev": "nodemon src/server.js"
+		},
+	
+	"devDependencies": {
+		"nodemon": "^3.1.10"	
+		}
+	
+=======================================================
+
+-------------------------------------------------------------------------------
+FRONTEND >>
+-------------------------------------------------------------------------------
+1. React:
+	--> for library;cls
+	
+
+2. TailwindCSS and DaisyUI:
+	--> for styling;
+
+3. ZUSTAND:
+	--> for stack management;
+
+4. Github:
+	--> live deployment repository;
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+>>FRONTEND Commads (VS-Code Terminal)
+-------------------------------------------------------------------------------
+a) npm create vite@latest . (enter)
+	> React
+	> JavaScript
+[we will get all dependency files we need for Frontend]
+b) npm install
+c) npm run dev
