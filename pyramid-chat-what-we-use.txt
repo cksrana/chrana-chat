@@ -81,3 +81,7 @@ a) npm create vite@latest . (enter)
 [we will get all dependency files we need for Frontend]
 b) npm install
 c) npm run dev
+
+
+## CODE RABBIT Extension Link Token
+dnNjb2RlOi8vY29kZXJhYmJpdC5jb2RlcmFiYml0LXZzY29kZS9hdXRoLWNhbGxiYWNrP2NvZGU9NGQwNWM2MTFmYTEwMmI4ZjdhMTImc3RhdGU9NTFiNWVkMjQtNTQ4MS00MDNmLTg0NGYtMDZkMWEwMDBiM2M5JnByb3ZpZGVyPWdpdGh1YiZzZWxmSG9zdGVkRG9tYWluPSZyZWRpcmVjdF91cmk9aHR0cHMlM0ElMkYlMkZhcHAuY29kZXJhYmJpdC5haSUyRmxvZ2lu
